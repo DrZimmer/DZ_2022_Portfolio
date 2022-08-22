@@ -1,0 +1,23 @@
+{
+  "name": "dz_2022_portfolio",
+  "version": "1.0.0",
+  "description": "Daniel's 2022 Portfolio",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrZimmer/DZ_2022_Portfolio.git"
+  },
+  "author": "Daniel Zimmermann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrZimmer/DZ_2022_Portfolio/issues"
+  },
+  "homepage": "https://github.com/DrZimmer/DZ_2022_Portfolio#readme",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "npm": "^8.18.0"
+  }
+}
