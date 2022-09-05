@@ -56,3 +56,6 @@
 //     });
 //     marker.setMap(map);
 //   }
+
+// not sure if creating react app or working basic javascript / css
+//TODO create react app or figure out tech stack and what you want on the page.
